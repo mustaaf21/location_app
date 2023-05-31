@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "284331232194",
+    "project_id": "gmaps-616ee",
+    "storage_bucket": "gmaps-616ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284331232194:android:043c6eecf287c80940e45b",
+        "android_client_info": {
+          "package_name": "com.example.gmapsfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284331232194-ghq34hrtf5op65lkn405u4sd8rnugbo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPqZKt-QVsJ_Xp6sF_jQzPuHJ49ucEmEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284331232194-ghq34hrtf5op65lkn405u4sd8rnugbo7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284331232194-0kh9k09pucto0bs9oh9csipcai0333p1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gmapsfinal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284331232194:android:907508b718cd851140e45b",
+        "android_client_info": {
+          "package_name": "com.example.gpsowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284331232194-ghq34hrtf5op65lkn405u4sd8rnugbo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPqZKt-QVsJ_Xp6sF_jQzPuHJ49ucEmEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284331232194-ghq34hrtf5op65lkn405u4sd8rnugbo7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284331232194-0kh9k09pucto0bs9oh9csipcai0333p1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gmapsfinal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

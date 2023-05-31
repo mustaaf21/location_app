@@ -38,7 +38,7 @@ class _locationFinalState extends State<locationFinal> {
               onPressed: () async {
                 await _launchURL();
               },
-              child: const Text('UPDATE LOCATION TO CLOUD')),
+              child: const Text('To launch maps')),
         ],
       )))),
     );
